@@ -1,4 +1,4 @@
-const Mysql                 = require('mysql');
+const Mysql                 = require('mysql2');
 const executeQuery  		= require('../config/database.js');
 
 class GameModel {
