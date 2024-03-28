@@ -86,11 +86,13 @@ volumes: # it means that that specified volume (in this case, db_data) is availa
 
 ### Use visual studio code and do the compose up
 
-![[Pasted image 20240328200557.png]]
+![Pasted image 20240328200557](https://github.com/FailureMaster/dockerize-express/assets/54210252/b5828c46-facf-431d-b0a5-92c73b74ef32)
+
 
 ### Go to the docker tab and open in browser:
 
-![[Pasted image 20240328200629.png]]
+![Pasted image 20240328200629](https://github.com/FailureMaster/dockerize-express/assets/54210252/5ce7e2a8-211d-4679-aa17-1b85f35112de)
+
 
 ### You should see this: 
-![[Pasted image 20240328200837.png]]
+![Pasted image 20240328200837](https://github.com/FailureMaster/dockerize-express/assets/54210252/3616888c-229d-4b26-b06d-05641e160c49)
